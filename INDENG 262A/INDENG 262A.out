@@ -1,0 +1,55 @@
+\BOOKMARK [1][-]{section.1}{Week 1 Lecture}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Optimization Problem}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Feasible Region/Sets}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Definitions}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Combinations}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{Week 2 Lecture}{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{Convexity}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Why is convexity important?}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{Week 3 Lecture}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Projection onto Closed Convex Sets}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Separating Hyperplanes}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Week 4 Lecture}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Supporting Hyperplanes}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Intro to Linear Optimization}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.3}{Linear Programming}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.4}{LP in R2}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Week 5 Lecture}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{Important Questions on LP}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{Blending Model}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.3}{Linear Programming Duality}{section.5}% 20
+\BOOKMARK [1][-]{section.6}{Week 6 Lecture}{}% 21
+\BOOKMARK [2][-]{subsection.6.1}{LP Duality}{section.6}% 22
+\BOOKMARK [2][-]{subsection.6.2}{When is an LP unbounded?}{section.6}% 23
+\BOOKMARK [2][-]{subsection.6.3}{Complementary Slackness}{section.6}% 24
+\BOOKMARK [2][-]{subsection.6.4}{Extreme Points and Basic Feasible Solutions of Polyhedra}{section.6}% 25
+\BOOKMARK [2][-]{subsection.6.5}{Simplex Method}{section.6}% 26
+\BOOKMARK [1][-]{section.7}{Week 7 Lecture}{}% 27
+\BOOKMARK [2][-]{subsection.7.1}{Simplex Algorithm}{section.7}% 28
+\BOOKMARK [2][-]{subsection.7.2}{Single Iteration of the Simplex Algorithm}{section.7}% 29
+\BOOKMARK [2][-]{subsection.7.3}{Important Questions on the Simplex Algorithm}{section.7}% 30
+\BOOKMARK [2][-]{subsection.7.4}{Stalling}{section.7}% 31
+\BOOKMARK [1][-]{section.8}{Week 8 Lecture}{}% 32
+\BOOKMARK [2][-]{subsection.8.1}{Sensitivity Analysis}{section.8}% 33
+\BOOKMARK [3][-]{subsubsection.8.1.1}{Adding a new variable}{subsection.8.1}% 34
+\BOOKMARK [3][-]{subsubsection.8.1.2}{Adding a new constraint}{subsection.8.1}% 35
+\BOOKMARK [3][-]{subsubsection.8.1.3}{Changing the cost vector}{subsection.8.1}% 36
+\BOOKMARK [3][-]{subsubsection.8.1.4}{Changing the vector}{subsection.8.1}% 37
+\BOOKMARK [2][-]{subsection.8.2}{The Dual Simplex Method}{section.8}% 38
+\BOOKMARK [2][-]{subsection.8.3}{Global Dependence on the Objective Vectors}{section.8}% 39
+\BOOKMARK [2][-]{subsection.8.4}{Global Dependence on the RHS Vectors}{section.8}% 40
+\BOOKMARK [1][-]{section.9}{Week 9 Lecture}{}% 41
+\BOOKMARK [2][-]{subsection.9.1}{Nonlinear Optimization}{section.9}% 42
+\BOOKMARK [2][-]{subsection.9.2}{Taylor's Theorem \(Calculus\)}{section.9}% 43
+\BOOKMARK [2][-]{subsection.9.3}{Necessary Conditions for Local Optimality}{section.9}% 44
+\BOOKMARK [2][-]{subsection.9.4}{Sufficient Conditions for Convex Optimality}{section.9}% 45
+\BOOKMARK [2][-]{subsection.9.5}{Checking Convexity of Functions}{section.9}% 46
+\BOOKMARK [1][-]{section.10}{Week 10 Lecture}{}% 47
+\BOOKMARK [2][-]{subsection.10.1}{Determining Semidefiniteness}{section.10}% 48
+\BOOKMARK [2][-]{subsection.10.2}{Modeling Exercise}{section.10}% 49
+\BOOKMARK [2][-]{subsection.10.3}{Minimization Algorithm for Unconstrained Nonlinear Linear Programming}{section.10}% 50
+\BOOKMARK [2][-]{subsection.10.4}{Steepest Descent Method for Minimize function}{section.10}% 51
+\BOOKMARK [1][-]{section.11}{Week 12 Lecture}{}% 52
+\BOOKMARK [2][-]{subsection.11.1}{Newton's Method for Solving a System of Nonlinear Equations}{section.11}% 53
+\BOOKMARK [2][-]{subsection.11.2}{Using Newton's Method to Minimize a Convex function}{section.11}% 54
+\BOOKMARK [2][-]{subsection.11.3}{Interior Point Method for Linear Programming}{section.11}% 55

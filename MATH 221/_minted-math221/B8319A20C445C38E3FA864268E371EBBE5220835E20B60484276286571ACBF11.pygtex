@@ -1,0 +1,13 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+    \PYG{n}{coeff} \PYG{p}{=} \PYG{n}{poly}\PYG{p}{(}\PYG{l+m+mi}{2}\PYG{o}{*}\PYG{n+nb}{ones}\PYG{p}{(}\PYG{l+m+mi}{13}\PYG{p}{,}\PYG{l+m+mi}{1}\PYG{p}{));}
+    \PYG{n}{x} \PYG{p}{=} \PYG{p}{[}\PYG{l+m+mf}{1.6}\PYG{p}{:}\PYG{l+m+mf}{1e\PYGZhy{}4}\PYG{p}{:}\PYG{l+m+mf}{2.4}\PYG{p}{];}
+    \PYG{n}{y} \PYG{p}{=} \PYG{n}{polyval}\PYG{p}{(}\PYG{n}{coeff}\PYG{p}{,}\PYG{n}{x}\PYG{p}{);}
+    \PYG{n}{yacc} \PYG{p}{=} \PYG{p}{(}\PYG{n}{x}\PYG{o}{\PYGZhy{}}\PYG{l+m+mi}{2}\PYG{p}{)}\PYG{o}{.\PYGZca{}}\PYG{l+m+mi}{13}\PYG{p}{;}
+    \PYG{n}{ebnd} \PYG{p}{=} \PYG{l+m+mi}{13}\PYG{o}{*}\PYG{n+nb}{eps}\PYG{o}{*}\PYG{n}{polyval}\PYG{p}{(}\PYG{n+nb}{abs}\PYG{p}{(}\PYG{n}{coeff}\PYG{p}{),}\PYG{n+nb}{abs}\PYG{p}{(}\PYG{n}{x}\PYG{p}{));}
+    \PYG{c}{\PYGZpc{} note eps in Matlab = 2*macheps}
+    \PYG{n}{plot}\PYG{p}{(}\PYG{n}{x}\PYG{p}{,}\PYG{n}{y}\PYG{p}{,}\PYG{l+s}{\PYGZsq{}k.\PYGZsq{}}\PYG{p}{,}\PYG{n}{x}\PYG{p}{,}\PYG{n}{yacc}\PYG{p}{,}\PYG{l+s}{\PYGZsq{}c\PYGZsq{}}\PYG{p}{,}\PYG{n}{x}\PYG{p}{,}\PYG{n}{y}\PYG{o}{\PYGZhy{}}\PYG{n}{ebnd}\PYG{p}{,}\PYG{l+s}{\PYGZsq{}r\PYGZsq{}}\PYG{p}{,}\PYG{n}{x}\PYG{p}{,}\PYG{n}{y}\PYG{o}{+}\PYG{n}{ebnd}\PYG{p}{,}\PYG{l+s}{\PYGZsq{}r\PYGZsq{}}\PYG{p}{)}
+    \PYG{n}{axis}\PYG{p}{([}\PYG{l+m+mf}{1.65} \PYG{l+m+mf}{2.35} \PYG{o}{\PYGZhy{}}\PYG{l+m+mf}{1e\PYGZhy{}8} \PYG{l+m+mf}{1e\PYGZhy{}8}\PYG{p}{]),} \PYG{n}{grid}
+    \PYG{c}{\PYGZpc{} need to make vertical axis wider to see bounds}
+    \PYG{n}{axis}\PYG{p}{([}\PYG{l+m+mf}{1.65} \PYG{l+m+mf}{2.35} \PYG{o}{\PYGZhy{}}\PYG{l+m+mf}{1e\PYGZhy{}6} \PYG{l+m+mf}{1e\PYGZhy{}6}\PYG{p}{]),} \PYG{n}{grid}
+    \PYG{c}{\PYGZpc{} conclusion: don\PYGZsq{}t trust sign outside roughly [1.72, 2.33]}
+\end{Verbatim}

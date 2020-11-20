@@ -1,0 +1,130 @@
+\contentsline {section}{\numberline {1}Lecture 1: Course Outline}{7}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Notation}{7}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Introduction}{7}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}The Mathematical Problems}{7}{subsection.1.3}% 
+\contentsline {subsubsection}{\numberline {1.3.1}Solve Ax=b}{7}{subsubsection.1.3.1}% 
+\contentsline {subsubsection}{\numberline {1.3.2}Least Squares}{8}{subsubsection.1.3.2}% 
+\contentsline {subsubsection}{\numberline {1.3.3}Eigenproblems}{8}{subsubsection.1.3.3}% 
+\contentsline {subsubsection}{\numberline {1.3.4}Invariant Subspaces}{9}{subsubsection.1.3.4}% 
+\contentsline {subsubsection}{\numberline {1.3.5}Generalized Eigenproblems}{9}{subsubsection.1.3.5}% 
+\contentsline {subsubsection}{\numberline {1.3.6}Nonlinear Eigenproblems}{9}{subsubsection.1.3.6}% 
+\contentsline {subsubsection}{\numberline {1.3.7}Singular Eigenproblems}{9}{subsubsection.1.3.7}% 
+\contentsline {subsubsection}{\numberline {1.3.8}Partial Solutions}{10}{subsubsection.1.3.8}% 
+\contentsline {subsubsection}{\numberline {1.3.9}Updating Solutions}{10}{subsubsection.1.3.9}% 
+\contentsline {subsubsection}{\numberline {1.3.10}Tensors}{10}{subsubsection.1.3.10}% 
+\contentsline {subsection}{\numberline {1.4}The Structure of Matrices}{10}{subsection.1.4}% 
+\contentsline {subsection}{\numberline {1.5}The Desired Accuracy}{11}{subsection.1.5}% 
+\contentsline {subsubsection}{\numberline {1.5.1}Guaranteed Accurate}{12}{subsubsection.1.5.1}% 
+\contentsline {subsubsection}{\numberline {1.5.2}Backward Stable}{12}{subsubsection.1.5.2}% 
+\contentsline {subsubsection}{\numberline {1.5.3}Residual as Small as Desired}{12}{subsubsection.1.5.3}% 
+\contentsline {subsubsection}{\numberline {1.5.4}Probably OK}{12}{subsubsection.1.5.4}% 
+\contentsline {subsubsection}{\numberline {1.5.5}Alternatives for Guaranteed Accuracy}{12}{subsubsection.1.5.5}% 
+\contentsline {subsection}{\numberline {1.6}Implementations of Efficient Algorithms}{13}{subsection.1.6}% 
+\contentsline {subsubsection}{\numberline {1.6.1}Fewest Keystrokes}{13}{subsubsection.1.6.1}% 
+\contentsline {subsubsection}{\numberline {1.6.2}The Meaning of the Fewest Flops}{13}{subsubsection.1.6.2}% 
+\contentsline {subsubsection}{\numberline {1.6.3}About Flops}{14}{subsubsection.1.6.3}% 
+\contentsline {subsubsection}{\numberline {1.6.4}Other Metrics}{15}{subsubsection.1.6.4}% 
+\contentsline {section}{\numberline {2}Lecture 2: Floating Point Arithmetic and Error Analysis}{16}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Floating Point}{16}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Details on Floating Point and Error Analysis}{21}{subsection.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.1}Exception Handling}{22}{subsubsection.2.2.1}% 
+\contentsline {subsubsection}{\numberline {2.2.2}Higher Precision Arithmetic}{22}{subsubsection.2.2.2}% 
+\contentsline {subsubsection}{\numberline {2.2.3}Lower Precision Arithmetic}{23}{subsubsection.2.2.3}% 
+\contentsline {subsubsection}{\numberline {2.2.4}Variable Precision}{23}{subsubsection.2.2.4}% 
+\contentsline {subsubsection}{\numberline {2.2.5}Reproducibility}{23}{subsubsection.2.2.5}% 
+\contentsline {subsubsection}{\numberline {2.2.6}Guaranteed Error Bounds from Interval Arithmetic}{23}{subsubsection.2.2.6}% 
+\contentsline {subsubsection}{\numberline {2.2.7}Exploiting Structure to get High Accuracy}{24}{subsubsection.2.2.7}% 
+\contentsline {section}{\numberline {3}Lecture 3: Norms, the SVD, and Condition Numbers}{25}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Accuracy}{25}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Matrix and Vector Norms}{26}{subsection.3.2}% 
+\contentsline {subsection}{\numberline {3.3}Orthogonal and Unitary Matrices}{28}{subsection.3.3}% 
+\contentsline {subsection}{\numberline {3.4}Singular Value Decomposition}{29}{subsection.3.4}% 
+\contentsline {subsection}{\numberline {3.5}Useful Properties of SVD}{31}{subsection.3.5}% 
+\contentsline {subsection}{\numberline {3.6}Condition Number}{33}{subsection.3.6}% 
+\contentsline {section}{\numberline {4}Lecture 4: Real Cost of an Algorithm and Matrix Multiplication}{38}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Cost Analysis}{38}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Some History}{40}{subsection.4.2}% 
+\contentsline {subsubsection}{\numberline {4.2.1}The Beginning and \textit {EISPACK}}{40}{subsubsection.4.2.1}% 
+\contentsline {subsubsection}{\numberline {4.2.2}\textit {BLAS-1} library (mid 1970s)}{41}{subsubsection.4.2.2}% 
+\contentsline {subsubsection}{\numberline {4.2.3}\textit {BLAS-2} library (mid 1980s)}{41}{subsubsection.4.2.3}% 
+\contentsline {subsubsection}{\numberline {4.2.4}\textit {BLAS-3} library (late 1980s)}{42}{subsubsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.3}Analysis on Matrix multiplication}{42}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}The Strassen Algorithm}{47}{subsection.4.4}% 
+\contentsline {section}{\numberline {5}Lecture 5: Gaussian Elimination}{50}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Gaussian Elimination}{50}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Gaussian Elimination in Algorithm}{52}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Minimizing Communication}{58}{subsection.5.3}% 
+\contentsline {section}{\numberline {6}Lecture 6: Gaussian Elimination for Matrices With Special Structures}{61}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}Gaussian Elimination for Special Structure}{61}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}Symmetric (Hermitian) Positive Definite}{61}{subsection.6.2}% 
+\contentsline {subsection}{\numberline {6.3}Symmetric Indefinite}{64}{subsection.6.3}% 
+\contentsline {subsection}{\numberline {6.4}Band Matrices}{64}{subsection.6.4}% 
+\contentsline {subsection}{\numberline {6.5}General Sparse Matrices}{67}{subsection.6.5}% 
+\contentsline {subsection}{\numberline {6.6}Challenges to Factoring Sparse Matrices}{69}{subsection.6.6}% 
+\contentsline {subsection}{\numberline {6.7}Summarize Sparse Cholesky}{71}{subsection.6.7}% 
+\contentsline {section}{\numberline {7}Lecture 7: Least Squares}{74}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Introduction to Least Squares}{74}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}Algorithm for Overdetermined Cases}{74}{subsection.7.2}% 
+\contentsline {subsubsection}{\numberline {7.2.1}Normal Equations}{74}{subsubsection.7.2.1}% 
+\contentsline {subsubsection}{\numberline {7.2.2}QR Decomposition}{75}{subsubsection.7.2.2}% 
+\contentsline {subsubsection}{\numberline {7.2.3}Singular Value Decomposition}{76}{subsubsection.7.2.3}% 
+\contentsline {subsubsection}{\numberline {7.2.4}Perturbation Theory for Least Squares Problem}{77}{subsubsection.7.2.4}% 
+\contentsline {subsection}{\numberline {7.3}Stable Algorithms for QR Decomposition}{78}{subsection.7.3}% 
+\contentsline {subsubsection}{\numberline {7.3.1}Householder Rotation}{78}{subsubsection.7.3.1}% 
+\contentsline {subsubsection}{\numberline {7.3.2}Optimizing QR}{80}{subsubsection.7.3.2}% 
+\contentsline {subsubsection}{\numberline {7.3.3}Givens Rotation}{83}{subsubsection.7.3.3}% 
+\contentsline {subsubsection}{\numberline {7.3.4}Stability of Applying Orthogonal Matrices}{83}{subsubsection.7.3.4}% 
+\contentsline {section}{\numberline {8}Lecture 8: Low Rank Matrices}{85}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}Solving an LS Problem when Matrix Rank Deficient}{85}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {8.2}Solving LS when Matrix nearly Rank Deficient with Truncated SVD}{86}{subsection.8.2}% 
+\contentsline {subsection}{\numberline {8.3}Solving a Least Squares Problem when A is (nearly) Rank Deficient}{88}{subsection.8.3}% 
+\contentsline {subsubsection}{\numberline {8.3.1}With Ridge Regression}{88}{subsubsection.8.3.1}% 
+\contentsline {subsubsection}{\numberline {8.3.2}With QR Decomposition}{88}{subsubsection.8.3.2}% 
+\contentsline {subsection}{\numberline {8.4}Computer the Permutation}{90}{subsection.8.4}% 
+\contentsline {subsubsection}{\numberline {8.4.1}QR with Column Pivoting}{90}{subsubsection.8.4.1}% 
+\contentsline {subsection}{\numberline {8.5}Fixing Pivoting for QR}{91}{subsection.8.5}% 
+\contentsline {subsubsection}{\numberline {8.5.1}Gu/Eisentat Strong RRQR Algorithm}{91}{subsubsection.8.5.1}% 
+\contentsline {subsubsection}{\numberline {8.5.2}Avoiding Communication in QR with Column Pivoting}{92}{subsubsection.8.5.2}% 
+\contentsline {subsection}{\numberline {8.6}Low Rank Factorization without Orthogonality}{92}{subsection.8.6}% 
+\contentsline {subsection}{\numberline {8.7}Randomized Linear Algebra}{93}{subsection.8.7}% 
+\contentsline {subsection}{\numberline {8.8}Apply to Least Squares}{95}{subsection.8.8}% 
+\contentsline {subsection}{\numberline {8.9}Randomized Algorithms for Low Rank Factorizations}{96}{subsection.8.9}% 
+\contentsline {subsubsection}{\numberline {8.9.1}Randomized Low-Rank Factorization}{97}{subsubsection.8.9.1}% 
+\contentsline {subsubsection}{\numberline {8.9.2}Randomized Low-Rank Factorization via Row Extraction}{98}{subsubsection.8.9.2}% 
+\contentsline {section}{\numberline {9}Lecture 9: Eigenproblems}{100}{section.9}% 
+\contentsline {subsection}{\numberline {9.1}Eigenvalue Problems}{100}{subsection.9.1}% 
+\contentsline {subsection}{\numberline {9.2}Backward Stable Approach}{101}{subsection.9.2}% 
+\contentsline {subsection}{\numberline {9.3}Schur Form for Real Matrices}{102}{subsection.9.3}% 
+\contentsline {subsection}{\numberline {9.4}More General Eigenvalue Problems}{104}{subsection.9.4}% 
+\contentsline {subsection}{\numberline {9.5}Algorithms for the Nonsymmetric Eigenproblem}{106}{subsection.9.5}% 
+\contentsline {subsubsection}{\numberline {9.5.1}Power Method}{107}{subsubsection.9.5.1}% 
+\contentsline {subsubsection}{\numberline {9.5.2}Inverse Iteration}{108}{subsubsection.9.5.2}% 
+\contentsline {subsubsection}{\numberline {9.5.3}Orthogonal Iteration}{109}{subsubsection.9.5.3}% 
+\contentsline {subsubsection}{\numberline {9.5.4}QR Iteration}{110}{subsubsection.9.5.4}% 
+\contentsline {subsection}{\numberline {9.6}Making QR Iteration Practical}{113}{subsection.9.6}% 
+\contentsline {section}{\numberline {10}Lecture 10: Symmetric Eigenproblems and the SVD}{117}{section.10}% 
+\contentsline {subsection}{\numberline {10.1}Symmetric Eigenvalue and the SVD}{117}{subsection.10.1}% 
+\contentsline {subsection}{\numberline {10.2}Perturbation Theory for Eigenvectors}{120}{subsection.10.2}% 
+\contentsline {subsection}{\numberline {10.3}More Results on Rayleigh Quotients}{121}{subsection.10.3}% 
+\contentsline {subsection}{\numberline {10.4}Overview of Algorithms}{123}{subsection.10.4}% 
+\contentsline {subsection}{\numberline {10.5}Algorithms and Their Costs}{124}{subsection.10.5}% 
+\contentsline {subsection}{\numberline {10.6}QR Iteration}{126}{subsection.10.6}% 
+\contentsline {subsection}{\numberline {10.7}Divide and Conquer for Tridiagonal eigenproblems}{127}{subsection.10.7}% 
+\contentsline {subsection}{\numberline {10.8}Algorithms for Few Eigenvalues and Eigenvectors Desired}{130}{subsection.10.8}% 
+\contentsline {section}{\numberline {11}Lecture 11: Introduction to Iterative Methods}{134}{section.11}% 
+\contentsline {subsection}{\numberline {11.1}Introduction to Iterative Methods}{134}{subsection.11.1}% 
+\contentsline {subsection}{\numberline {11.2}Model Problem: Poisson's Equation}{135}{subsection.11.2}% 
+\contentsline {subsection}{\numberline {11.3}Poisson's Equation in d Dimensions}{138}{subsection.11.3}% 
+\contentsline {subsection}{\numberline {11.4}Solving Poisson's Equation with Fast Fourier Transform}{140}{subsection.11.4}% 
+\contentsline {subsection}{\numberline {11.5}Summary of performance of methods for Poisson's Equation}{141}{subsection.11.5}% 
+\contentsline {section}{\numberline {12}Lecture 12: Splitting Methods}{143}{section.12}% 
+\contentsline {subsection}{\numberline {12.1}Splitting Methods}{143}{subsection.12.1}% 
+\contentsline {subsection}{\numberline {12.2}Describe Jacobi \& Gauss-Seidel \& SOR}{144}{subsection.12.2}% 
+\contentsline {subsubsection}{\numberline {12.2.1}Jacobi}{145}{subsubsection.12.2.1}% 
+\contentsline {subsubsection}{\numberline {12.2.2}Gauss-Seidel}{145}{subsubsection.12.2.2}% 
+\contentsline {subsubsection}{\numberline {12.2.3}Successive Overrelaxation (SOR)}{146}{subsubsection.12.2.3}% 
+\contentsline {subsection}{\numberline {12.3}Convergence of Splitting Methods}{147}{subsection.12.3}% 
+\contentsline {subsection}{\numberline {12.4}Convergence of SOR for 2D Poisson}{149}{subsection.12.4}% 
+\contentsline {section}{\numberline {13}Lecture 13: Multigrid}{152}{section.13}% 
+\contentsline {section}{\numberline {14}Lecture 14: Introduction to Krylov Subspace Methods}{153}{section.14}% 
+\contentsline {subsection}{\numberline {14.1}Krylov Subspace Methods}{153}{subsection.14.1}% 

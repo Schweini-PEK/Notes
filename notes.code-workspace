@@ -1,0 +1,42 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cSpell.words": [
+			"Demmel",
+			"Discretize",
+			"Discretizing",
+			"Eigenproblems",
+			"GEPP",
+			"GMRES",
+			"KSMs",
+			"Krylov",
+			"Lindenstrauss",
+			"Penrose",
+			"Procs",
+			"RRQR",
+			"SSOR",
+			"Schur",
+			"Semidefiniteness",
+			"Strassen",
+			"Vandermonde",
+			"Weyl's",
+			"bidiagonal",
+			"eigenproblem",
+			"frobenious",
+			"multigrid",
+			"nonpositive",
+			"nonsymmetric",
+			"nonunique",
+			"nonzeros",
+			"overrelaxation",
+			"preconditioner",
+			"preconditioners",
+			"pseudoinverse",
+			"tridiagonal"
+		]
+	}
+}

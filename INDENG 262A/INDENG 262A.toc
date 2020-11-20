@@ -1,0 +1,55 @@
+\contentsline {section}{\numberline {1}Week 1 Lecture}{4}{section.1}% 
+\contentsline {subsection}{\numberline {1.1}Optimization Problem}{4}{subsection.1.1}% 
+\contentsline {subsection}{\numberline {1.2}Feasible Region/Sets}{4}{subsection.1.2}% 
+\contentsline {subsection}{\numberline {1.3}Definitions}{4}{subsection.1.3}% 
+\contentsline {subsection}{\numberline {1.4}Combinations}{6}{subsection.1.4}% 
+\contentsline {section}{\numberline {2}Week 2 Lecture}{7}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Convexity}{7}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Why is convexity important?}{8}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}Week 3 Lecture}{10}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Projection onto Closed Convex Sets}{10}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Separating Hyperplanes}{11}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}Week 4 Lecture}{13}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}Supporting Hyperplanes}{13}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}Intro to Linear Optimization}{15}{subsection.4.2}% 
+\contentsline {subsection}{\numberline {4.3}Linear Programming}{16}{subsection.4.3}% 
+\contentsline {subsection}{\numberline {4.4}LP in \relax \mathversion {bold}$\mathbb {R}^2$}{16}{subsection.4.4}% 
+\contentsline {section}{\numberline {5}Week 5 Lecture}{18}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}Important Questions on LP}{18}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}Blending Model}{20}{subsection.5.2}% 
+\contentsline {subsection}{\numberline {5.3}Linear Programming Duality}{21}{subsection.5.3}% 
+\contentsline {section}{\numberline {6}Week 6 Lecture}{24}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}LP Duality}{24}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}When is an LP unbounded?}{25}{subsection.6.2}% 
+\contentsline {subsection}{\numberline {6.3}Complementary Slackness}{26}{subsection.6.3}% 
+\contentsline {subsection}{\numberline {6.4}Extreme Points and Basic Feasible Solutions of Polyhedra}{28}{subsection.6.4}% 
+\contentsline {subsection}{\numberline {6.5}Simplex Method}{31}{subsection.6.5}% 
+\contentsline {section}{\numberline {7}Week 7 Lecture}{32}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}Simplex Algorithm}{32}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}Single Iteration of the Simplex Algorithm}{33}{subsection.7.2}% 
+\contentsline {subsection}{\numberline {7.3}Important Questions on the Simplex Algorithm}{33}{subsection.7.3}% 
+\contentsline {subsection}{\numberline {7.4}Stalling}{36}{subsection.7.4}% 
+\contentsline {section}{\numberline {8}Week 8 Lecture}{37}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}Sensitivity Analysis}{37}{subsection.8.1}% 
+\contentsline {subsubsection}{\numberline {8.1.1}Adding a new variable}{37}{subsubsection.8.1.1}% 
+\contentsline {subsubsection}{\numberline {8.1.2}Adding a new constraint}{37}{subsubsection.8.1.2}% 
+\contentsline {subsubsection}{\numberline {8.1.3}Changing the cost vector}{38}{subsubsection.8.1.3}% 
+\contentsline {subsubsection}{\numberline {8.1.4}Changing the vector}{38}{subsubsection.8.1.4}% 
+\contentsline {subsection}{\numberline {8.2}The Dual Simplex Method}{39}{subsection.8.2}% 
+\contentsline {subsection}{\numberline {8.3}Global Dependence on the Objective Vectors}{40}{subsection.8.3}% 
+\contentsline {subsection}{\numberline {8.4}Global Dependence on the RHS Vectors}{40}{subsection.8.4}% 
+\contentsline {section}{\numberline {9}Week 9 Lecture}{42}{section.9}% 
+\contentsline {subsection}{\numberline {9.1}Nonlinear Optimization}{42}{subsection.9.1}% 
+\contentsline {subsection}{\numberline {9.2}Taylor's Theorem (Calculus)}{42}{subsection.9.2}% 
+\contentsline {subsection}{\numberline {9.3}Necessary Conditions for Local Optimality}{44}{subsection.9.3}% 
+\contentsline {subsection}{\numberline {9.4}Sufficient Conditions for Convex Optimality}{45}{subsection.9.4}% 
+\contentsline {subsection}{\numberline {9.5}Checking Convexity of Functions}{48}{subsection.9.5}% 
+\contentsline {section}{\numberline {10}Week 10 Lecture}{50}{section.10}% 
+\contentsline {subsection}{\numberline {10.1}Determining Semidefiniteness}{50}{subsection.10.1}% 
+\contentsline {subsection}{\numberline {10.2}Modeling Exercise}{52}{subsection.10.2}% 
+\contentsline {subsection}{\numberline {10.3}Minimization Algorithm for Unconstrained Nonlinear Linear Programming}{54}{subsection.10.3}% 
+\contentsline {subsection}{\numberline {10.4}Steepest Descent Method for Minimize function}{54}{subsection.10.4}% 
+\contentsline {section}{\numberline {11}Week 12 Lecture}{57}{section.11}% 
+\contentsline {subsection}{\numberline {11.1}Newton's Method for Solving a System of Nonlinear Equations}{57}{subsection.11.1}% 
+\contentsline {subsection}{\numberline {11.2}Using Newton's Method to Minimize a Convex function}{58}{subsection.11.2}% 
+\contentsline {subsection}{\numberline {11.3}Interior Point Method for Linear Programming}{59}{subsection.11.3}% 

@@ -1,0 +1,130 @@
+\BOOKMARK [1][-]{section.1}{Lecture 1: Course Outline}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Notation}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Introduction}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{The Mathematical Problems}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Solve Ax=b}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{Least Squares}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Eigenproblems}{subsection.1.3}% 7
+\BOOKMARK [3][-]{subsubsection.1.3.4}{Invariant Subspaces}{subsection.1.3}% 8
+\BOOKMARK [3][-]{subsubsection.1.3.5}{Generalized Eigenproblems}{subsection.1.3}% 9
+\BOOKMARK [3][-]{subsubsection.1.3.6}{Nonlinear Eigenproblems}{subsection.1.3}% 10
+\BOOKMARK [3][-]{subsubsection.1.3.7}{Singular Eigenproblems}{subsection.1.3}% 11
+\BOOKMARK [3][-]{subsubsection.1.3.8}{Partial Solutions}{subsection.1.3}% 12
+\BOOKMARK [3][-]{subsubsection.1.3.9}{Updating Solutions}{subsection.1.3}% 13
+\BOOKMARK [3][-]{subsubsection.1.3.10}{Tensors}{subsection.1.3}% 14
+\BOOKMARK [2][-]{subsection.1.4}{The Structure of Matrices}{section.1}% 15
+\BOOKMARK [2][-]{subsection.1.5}{The Desired Accuracy}{section.1}% 16
+\BOOKMARK [3][-]{subsubsection.1.5.1}{Guaranteed Accurate}{subsection.1.5}% 17
+\BOOKMARK [3][-]{subsubsection.1.5.2}{Backward Stable}{subsection.1.5}% 18
+\BOOKMARK [3][-]{subsubsection.1.5.3}{Residual as Small as Desired}{subsection.1.5}% 19
+\BOOKMARK [3][-]{subsubsection.1.5.4}{Probably OK}{subsection.1.5}% 20
+\BOOKMARK [3][-]{subsubsection.1.5.5}{Alternatives for Guaranteed Accuracy}{subsection.1.5}% 21
+\BOOKMARK [2][-]{subsection.1.6}{Implementations of Efficient Algorithms}{section.1}% 22
+\BOOKMARK [3][-]{subsubsection.1.6.1}{Fewest Keystrokes}{subsection.1.6}% 23
+\BOOKMARK [3][-]{subsubsection.1.6.2}{The Meaning of the Fewest Flops}{subsection.1.6}% 24
+\BOOKMARK [3][-]{subsubsection.1.6.3}{About Flops}{subsection.1.6}% 25
+\BOOKMARK [3][-]{subsubsection.1.6.4}{Other Metrics}{subsection.1.6}% 26
+\BOOKMARK [1][-]{section.2}{Lecture 2: Floating Point Arithmetic and Error Analysis}{}% 27
+\BOOKMARK [2][-]{subsection.2.1}{Floating Point}{section.2}% 28
+\BOOKMARK [2][-]{subsection.2.2}{Details on Floating Point and Error Analysis}{section.2}% 29
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Exception Handling}{subsection.2.2}% 30
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Higher Precision Arithmetic}{subsection.2.2}% 31
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Lower Precision Arithmetic}{subsection.2.2}% 32
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Variable Precision}{subsection.2.2}% 33
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Reproducibility}{subsection.2.2}% 34
+\BOOKMARK [3][-]{subsubsection.2.2.6}{Guaranteed Error Bounds from Interval Arithmetic}{subsection.2.2}% 35
+\BOOKMARK [3][-]{subsubsection.2.2.7}{Exploiting Structure to get High Accuracy}{subsection.2.2}% 36
+\BOOKMARK [1][-]{section.3}{Lecture 3: Norms, the SVD, and Condition Numbers}{}% 37
+\BOOKMARK [2][-]{subsection.3.1}{Accuracy}{section.3}% 38
+\BOOKMARK [2][-]{subsection.3.2}{Matrix and Vector Norms}{section.3}% 39
+\BOOKMARK [2][-]{subsection.3.3}{Orthogonal and Unitary Matrices}{section.3}% 40
+\BOOKMARK [2][-]{subsection.3.4}{Singular Value Decomposition}{section.3}% 41
+\BOOKMARK [2][-]{subsection.3.5}{Useful Properties of SVD}{section.3}% 42
+\BOOKMARK [2][-]{subsection.3.6}{Condition Number}{section.3}% 43
+\BOOKMARK [1][-]{section.4}{Lecture 4: Real Cost of an Algorithm and Matrix Multiplication}{}% 44
+\BOOKMARK [2][-]{subsection.4.1}{Cost Analysis}{section.4}% 45
+\BOOKMARK [2][-]{subsection.4.2}{Some History}{section.4}% 46
+\BOOKMARK [3][-]{subsubsection.4.2.1}{The Beginning and EISPACK}{subsection.4.2}% 47
+\BOOKMARK [3][-]{subsubsection.4.2.2}{BLAS-1 library \(mid 1970s\)}{subsection.4.2}% 48
+\BOOKMARK [3][-]{subsubsection.4.2.3}{BLAS-2 library \(mid 1980s\)}{subsection.4.2}% 49
+\BOOKMARK [3][-]{subsubsection.4.2.4}{BLAS-3 library \(late 1980s\)}{subsection.4.2}% 50
+\BOOKMARK [2][-]{subsection.4.3}{Analysis on Matrix multiplication}{section.4}% 51
+\BOOKMARK [2][-]{subsection.4.4}{The Strassen Algorithm}{section.4}% 52
+\BOOKMARK [1][-]{section.5}{Lecture 5: Gaussian Elimination}{}% 53
+\BOOKMARK [2][-]{subsection.5.1}{Gaussian Elimination}{section.5}% 54
+\BOOKMARK [2][-]{subsection.5.2}{Gaussian Elimination in Algorithm}{section.5}% 55
+\BOOKMARK [2][-]{subsection.5.3}{Minimizing Communication}{section.5}% 56
+\BOOKMARK [1][-]{section.6}{Lecture 6: Gaussian Elimination for Matrices With Special Structures}{}% 57
+\BOOKMARK [2][-]{subsection.6.1}{Gaussian Elimination for Special Structure}{section.6}% 58
+\BOOKMARK [2][-]{subsection.6.2}{Symmetric \(Hermitian\) Positive Definite}{section.6}% 59
+\BOOKMARK [2][-]{subsection.6.3}{Symmetric Indefinite}{section.6}% 60
+\BOOKMARK [2][-]{subsection.6.4}{Band Matrices}{section.6}% 61
+\BOOKMARK [2][-]{subsection.6.5}{General Sparse Matrices}{section.6}% 62
+\BOOKMARK [2][-]{subsection.6.6}{Challenges to Factoring Sparse Matrices}{section.6}% 63
+\BOOKMARK [2][-]{subsection.6.7}{Summarize Sparse Cholesky}{section.6}% 64
+\BOOKMARK [1][-]{section.7}{Lecture 7: Least Squares}{}% 65
+\BOOKMARK [2][-]{subsection.7.1}{Introduction to Least Squares}{section.7}% 66
+\BOOKMARK [2][-]{subsection.7.2}{Algorithm for Overdetermined Cases}{section.7}% 67
+\BOOKMARK [3][-]{subsubsection.7.2.1}{Normal Equations}{subsection.7.2}% 68
+\BOOKMARK [3][-]{subsubsection.7.2.2}{QR Decomposition}{subsection.7.2}% 69
+\BOOKMARK [3][-]{subsubsection.7.2.3}{Singular Value Decomposition}{subsection.7.2}% 70
+\BOOKMARK [3][-]{subsubsection.7.2.4}{Perturbation Theory for Least Squares Problem}{subsection.7.2}% 71
+\BOOKMARK [2][-]{subsection.7.3}{Stable Algorithms for QR Decomposition}{section.7}% 72
+\BOOKMARK [3][-]{subsubsection.7.3.1}{Householder Rotation}{subsection.7.3}% 73
+\BOOKMARK [3][-]{subsubsection.7.3.2}{Optimizing QR}{subsection.7.3}% 74
+\BOOKMARK [3][-]{subsubsection.7.3.3}{Givens Rotation}{subsection.7.3}% 75
+\BOOKMARK [3][-]{subsubsection.7.3.4}{Stability of Applying Orthogonal Matrices}{subsection.7.3}% 76
+\BOOKMARK [1][-]{section.8}{Lecture 8: Low Rank Matrices}{}% 77
+\BOOKMARK [2][-]{subsection.8.1}{Solving an LS Problem when Matrix Rank Deficient}{section.8}% 78
+\BOOKMARK [2][-]{subsection.8.2}{Solving LS when Matrix nearly Rank Deficient with Truncated SVD}{section.8}% 79
+\BOOKMARK [2][-]{subsection.8.3}{Solving a Least Squares Problem when A is \(nearly\) Rank Deficient}{section.8}% 80
+\BOOKMARK [3][-]{subsubsection.8.3.1}{With Ridge Regression}{subsection.8.3}% 81
+\BOOKMARK [3][-]{subsubsection.8.3.2}{With QR Decomposition}{subsection.8.3}% 82
+\BOOKMARK [2][-]{subsection.8.4}{Computer the Permutation}{section.8}% 83
+\BOOKMARK [3][-]{subsubsection.8.4.1}{QR with Column Pivoting}{subsection.8.4}% 84
+\BOOKMARK [2][-]{subsection.8.5}{Fixing Pivoting for QR}{section.8}% 85
+\BOOKMARK [3][-]{subsubsection.8.5.1}{Gu/Eisentat Strong RRQR Algorithm}{subsection.8.5}% 86
+\BOOKMARK [3][-]{subsubsection.8.5.2}{Avoiding Communication in QR with Column Pivoting}{subsection.8.5}% 87
+\BOOKMARK [2][-]{subsection.8.6}{Low Rank Factorization without Orthogonality}{section.8}% 88
+\BOOKMARK [2][-]{subsection.8.7}{Randomized Linear Algebra}{section.8}% 89
+\BOOKMARK [2][-]{subsection.8.8}{Apply to Least Squares}{section.8}% 90
+\BOOKMARK [2][-]{subsection.8.9}{Randomized Algorithms for Low Rank Factorizations}{section.8}% 91
+\BOOKMARK [3][-]{subsubsection.8.9.1}{Randomized Low-Rank Factorization}{subsection.8.9}% 92
+\BOOKMARK [3][-]{subsubsection.8.9.2}{Randomized Low-Rank Factorization via Row Extraction}{subsection.8.9}% 93
+\BOOKMARK [1][-]{section.9}{Lecture 9: Eigenproblems}{}% 94
+\BOOKMARK [2][-]{subsection.9.1}{Eigenvalue Problems}{section.9}% 95
+\BOOKMARK [2][-]{subsection.9.2}{Backward Stable Approach}{section.9}% 96
+\BOOKMARK [2][-]{subsection.9.3}{Schur Form for Real Matrices}{section.9}% 97
+\BOOKMARK [2][-]{subsection.9.4}{More General Eigenvalue Problems}{section.9}% 98
+\BOOKMARK [2][-]{subsection.9.5}{Algorithms for the Nonsymmetric Eigenproblem}{section.9}% 99
+\BOOKMARK [3][-]{subsubsection.9.5.1}{Power Method}{subsection.9.5}% 100
+\BOOKMARK [3][-]{subsubsection.9.5.2}{Inverse Iteration}{subsection.9.5}% 101
+\BOOKMARK [3][-]{subsubsection.9.5.3}{Orthogonal Iteration}{subsection.9.5}% 102
+\BOOKMARK [3][-]{subsubsection.9.5.4}{QR Iteration}{subsection.9.5}% 103
+\BOOKMARK [2][-]{subsection.9.6}{Making QR Iteration Practical}{section.9}% 104
+\BOOKMARK [1][-]{section.10}{Lecture 10: Symmetric Eigenproblems and the SVD}{}% 105
+\BOOKMARK [2][-]{subsection.10.1}{Symmetric Eigenvalue and the SVD}{section.10}% 106
+\BOOKMARK [2][-]{subsection.10.2}{Perturbation Theory for Eigenvectors}{section.10}% 107
+\BOOKMARK [2][-]{subsection.10.3}{More Results on Rayleigh Quotients}{section.10}% 108
+\BOOKMARK [2][-]{subsection.10.4}{Overview of Algorithms}{section.10}% 109
+\BOOKMARK [2][-]{subsection.10.5}{Algorithms and Their Costs}{section.10}% 110
+\BOOKMARK [2][-]{subsection.10.6}{QR Iteration}{section.10}% 111
+\BOOKMARK [2][-]{subsection.10.7}{Divide and Conquer for Tridiagonal eigenproblems}{section.10}% 112
+\BOOKMARK [2][-]{subsection.10.8}{Algorithms for Few Eigenvalues and Eigenvectors Desired}{section.10}% 113
+\BOOKMARK [1][-]{section.11}{Lecture 11: Introduction to Iterative Methods}{}% 114
+\BOOKMARK [2][-]{subsection.11.1}{Introduction to Iterative Methods}{section.11}% 115
+\BOOKMARK [2][-]{subsection.11.2}{Model Problem: Poisson's Equation}{section.11}% 116
+\BOOKMARK [2][-]{subsection.11.3}{Poisson's Equation in d Dimensions}{section.11}% 117
+\BOOKMARK [2][-]{subsection.11.4}{Solving Poisson's Equation with Fast Fourier Transform}{section.11}% 118
+\BOOKMARK [2][-]{subsection.11.5}{Summary of performance of methods for Poisson's Equation}{section.11}% 119
+\BOOKMARK [1][-]{section.12}{Lecture 12: Splitting Methods}{}% 120
+\BOOKMARK [2][-]{subsection.12.1}{Splitting Methods}{section.12}% 121
+\BOOKMARK [2][-]{subsection.12.2}{Describe Jacobi \046 Gauss-Seidel \046 SOR}{section.12}% 122
+\BOOKMARK [3][-]{subsubsection.12.2.1}{Jacobi}{subsection.12.2}% 123
+\BOOKMARK [3][-]{subsubsection.12.2.2}{Gauss-Seidel}{subsection.12.2}% 124
+\BOOKMARK [3][-]{subsubsection.12.2.3}{Successive Overrelaxation \(SOR\)}{subsection.12.2}% 125
+\BOOKMARK [2][-]{subsection.12.3}{Convergence of Splitting Methods}{section.12}% 126
+\BOOKMARK [2][-]{subsection.12.4}{Convergence of SOR for 2D Poisson}{section.12}% 127
+\BOOKMARK [1][-]{section.13}{Lecture 13: Multigrid}{}% 128
+\BOOKMARK [1][-]{section.14}{Lecture 14: Introduction to Krylov Subspace Methods}{}% 129
+\BOOKMARK [2][-]{subsection.14.1}{Krylov Subspace Methods}{section.14}% 130
